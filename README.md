@@ -1,2 +1,1 @@
-My first readme
-Added this change
+This is alx school repo
